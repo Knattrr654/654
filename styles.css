@@ -516,7 +516,7 @@ section {
 
 .platform-card.deezer:hover {
     border-color: #2dd1fe;
-    box-shadow: 0 20px 40px rgba(254, 170, 45, 0.2);
+    box-shadow: 0 20px 40px rgba(45, 209, 254, 0.2);
 }
 
 .platform-icon {
